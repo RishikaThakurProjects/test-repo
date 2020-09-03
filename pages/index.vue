@@ -1,13 +1,11 @@
 <template>
   <div class="container">
     <div>
-      <h1>hello</h1>
-      <h1>Helloworld</h1>
+     
       <h1 class="title">
         sms
       </h1>
-      <h1>
-        clone</h1>
+      
         {{counter}} 
         <!-- {{counter123}} -->
         <button class="btn btn-sm btn-info" @click="storetest"> Store Test</button>
