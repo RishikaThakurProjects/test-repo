@@ -5,6 +5,8 @@
       <h1 class="title">
         sms
       </h1>
+      <h1>
+        clone</h1>
         {{counter}} 
         <!-- {{counter123}} -->
         <button class="btn btn-sm btn-info" @click="storetest"> Store Test</button>
