@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <div>
+      <h1>hello tech ninja</h1>
       <h1 class="title">sms</h1>
       {{counter}}
       <!-- {{counter123}} -->
