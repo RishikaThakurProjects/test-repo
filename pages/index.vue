@@ -1,11 +1,8 @@
 <template>
   <div class="container">
     <div>
-<<<<<<< HEAD
       <h1>hello</h1>
-=======
       <h1>Helloworld</h1>
->>>>>>> 79802efbf5fd43a25ff35edb9b7d7b83c565a929
       <h1 class="title">
         sms
       </h1>
