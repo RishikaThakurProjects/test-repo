@@ -3,6 +3,7 @@
     <div>
       <h1>hello tech ninja</h1>
       <h1 class="title">sms</h1>
+      <p>hiii</p>
       {{counter}}
       <!-- {{counter123}} -->
       <button class="btn btn-sm btn-info" @click="storetest">Store Test</button>
